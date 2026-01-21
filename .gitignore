@@ -1,0 +1,6 @@
+# Escludi file di compilazione
+build/
+bin/
+*.hex
+*.elf
+*.bin
